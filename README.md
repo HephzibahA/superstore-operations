@@ -1,17 +1,15 @@
 
-<img width="1041" height="764" alt="superstore-dashboard" src="https://github.com/user-attachments/assets/6db186c3-d5a0-4dfd-aeb2-3274631e84f9" />
-
-
-
-
-
-
-
-#Superstore Operations Dashboard
+# Superstore Operations Dashboard
 
 A complete data pipeline and interactive Tableau workbook analyzing regional delivery efficiency, discount profitability, and customer retention profiles.
 
-Project Overview
+---
+
+Dashboard Preview
+<img width="1041" height="764" alt="superstore-dashboard" src="https://github.com/user-attachments/assets/6db186c3-d5a0-4dfd-aeb2-3274631e84f9" />
+
+### 📊 Project Overview
+
 
 This project takes raw transactional retail data, cleans and aggregates it using SQL, and models it into a high-performance Tableau dashboard to monitor operational logistics, promotional pricing risks, and customer base composition.
 
