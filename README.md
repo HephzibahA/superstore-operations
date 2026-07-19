@@ -15,19 +15,19 @@ This project takes raw transactional retail data, cleans and aggregates it using
 
 # Data Pipeline & Prep Work
 
-## Extraction & Querying (SQL)
+1.  Extraction & Querying (SQL)
 
 Queried raw transactional databases to extract operational performance metrics, including regional shipping speeds, discount structures, and customer purchase histories.
 
 Performed initial aggregations to transform high-volume order logs into structured summaries, categorizing discounts into distinct bands (no_discount, low_discount, high_discount, clearance) and calculating transaction intervals.
 
-## Data Cleaning & Auditing (SQL)
+2.  Data Cleaning & Auditing (SQL)
 
 Handled data profiling directly in SQL to identify and filter out null values, standardize date-time fields, and correct regional grouping anomalies.
 
 Wrote SQL validation queries to cross-verify calculated delivery timelines (calculating the datediff between shipping and order dates) and customer segmentations before exporting the clean dataset to Tableau.
 
-## Data Modeling (Tableau)
+3.  Data Modeling (Tableau)
 Resolved schema discrepancies between shipping logs, promotional transactions, and customer master records.
 
 Established a solid relationship model to stitch together transactional shipping lines with customer-level purchase counts on the fly.
