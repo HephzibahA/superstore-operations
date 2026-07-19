@@ -1,5 +1,6 @@
 
-<img width="1005" height="807" alt="food-retail-dashboard" src="https://github.com/user-attachments/assets/fa961758-0d46-43e5-bafe-9123c49b6f84" />
+<img width="1041" height="764" alt="superstore-dashboard" src="https://github.com/user-attachments/assets/6db186c3-d5a0-4dfd-aeb2-3274631e84f9" />
+
 
 
 
