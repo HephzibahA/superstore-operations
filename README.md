@@ -1,3 +1,11 @@
+
+<img width="1005" height="807" alt="food-retail-dashboard" src="https://github.com/user-attachments/assets/fa961758-0d46-43e5-bafe-9123c49b6f84" />
+
+
+
+
+
+
 #Superstore Operations Dashboard
 
 A complete data pipeline and interactive Tableau workbook analyzing regional delivery efficiency, discount profitability, and customer retention profiles.
